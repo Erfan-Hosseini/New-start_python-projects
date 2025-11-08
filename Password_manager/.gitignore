@@ -1,0 +1,15 @@
+# ignore password storage
+passwords.txt
+
+# python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# editors / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
